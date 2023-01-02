@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princervm&label=Profile%20views&color=0e75b6&style=flat" alt="princervm" /> </p>
 
-- 🔭 I’m currently working on **hotel booking**
+- 🔭 I’m currently working on **hotel booking system**
 
 - 🌱 I’m currently learning **react next css tailwind**
 
