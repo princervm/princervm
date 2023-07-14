@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince7374&label=Profile%20views&color=0e75b6&style=flat" alt="prince7374" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince7374" alt="prince7374" /></a> </p>
+<p align="left"> <a href="https://twitter.com/prince_mit19" target="blank"><img src="https://img.shields.io/twitter/follow/prince_mit19?logo=twitter&style=for-the-badge" alt="prince_mit19" /></a> </p>
 
 - 🔭 I’m currently working on **hotel booking system**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/prince_mit19?t=qtdsdxixbdvzqpard9gkja&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/prince_mit19?t=qtdsdxixbdvzqpard9gkja&s=09" height="30" width="40" /></a>
+<a href="https://twitter.com/prince_mit19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prince_mit19" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/prince-kumar-2b58791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prince-kumar-2b58791b3" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100029030974055&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100029030974055&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/prince_mit19?igshid=mznlngnkzwq4mg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/prince_mit19?igshid=mznlngnkzwq4mg==" height="30" width="40" /></a>
